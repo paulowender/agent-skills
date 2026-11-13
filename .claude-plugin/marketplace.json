@@ -1,0 +1,12 @@
+{
+  "name": "paulowender-skills",
+  "description": "Skills do Paulo Wender para o Claude Code.",
+  "owner": { "name": "Paulo Wender" },
+  "plugins": [
+    {
+      "name": "repaginar-tela",
+      "source": "./plugins/repaginar-tela",
+      "description": "Repaginar uma tela ou módulo existente mantendo todas as funcionalidades: inventário, protótipos clicáveis, spec, plano, implementação e teste ponta a ponta."
+    }
+  ]
+}
