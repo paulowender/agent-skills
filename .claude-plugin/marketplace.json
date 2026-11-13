@@ -1,6 +1,6 @@
 {
   "name": "paulowender-skills",
-  "description": "Skills do Paulo Wender para o Claude Code.",
+  "description": "Skills do Paulo Wender para o Claude Code e o Codex.",
   "owner": { "name": "Paulo Wender" },
   "plugins": [
     {
