@@ -1,6 +1,6 @@
 # agent-skills
 
-Skills para o [Claude Code](https://claude.com/claude-code) e o [Codex](https://github.com/openai/codex), distribuídas como marketplace de plugins. O mesmo repositório serve aos dois.
+Skills para o [Claude Code](https://claude.com/claude-code) e o [Codex](https://github.com/openai/codex), distribuídas como marketplace de plugins.
 
 ## Instalar
 
