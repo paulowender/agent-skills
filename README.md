@@ -1,4 +1,4 @@
-# claude-skills
+# agent-skills
 
 Skills para o [Claude Code](https://claude.com/claude-code) e o [Codex](https://github.com/openai/codex), distribuídas como marketplace de plugins. O mesmo repositório serve aos dois.
 
@@ -7,7 +7,7 @@ Skills para o [Claude Code](https://claude.com/claude-code) e o [Codex](https://
 ### Claude Code
 
 ```
-/plugin marketplace add paulowender/claude-skills
+/plugin marketplace add paulowender/agent-skills
 /plugin install repaginar-tela@paulowender-skills
 ```
 
@@ -16,7 +16,7 @@ Para atualizar depois: `/plugin marketplace update paulowender-skills`.
 ### Codex
 
 ```
-codex plugin marketplace add paulowender/claude-skills
+codex plugin marketplace add paulowender/agent-skills
 codex plugin add repaginar-tela@paulowender-skills
 ```
 
