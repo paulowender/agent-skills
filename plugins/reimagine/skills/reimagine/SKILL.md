@@ -1,9 +1,9 @@
 ---
-name: repaginar-tela
-description: Use quando o usuário pedir para repaginar, redesenhar, refazer ou modernizar uma tela, página ou módulo existente de qualquer sistema, mantendo todas as funcionalidades atuais. Cobre inventário do que existe, protótipos HTML clicáveis, spec, plano, implementação com subagentes, teste ponta a ponta no navegador e entrega em PRs.
+name: reimagine
+description: Use quando o usuário pedir para reimaginar, repaginar, redesenhar, refazer ou modernizar uma tela, página ou módulo existente de qualquer sistema, mantendo todas as funcionalidades atuais. Cobre inventário do que existe, protótipos HTML clicáveis, spec, plano, implementação com subagentes, teste ponta a ponta no navegador e entrega em PRs.
 ---
 
-# Repaginar uma tela/módulo
+# Reimagine — Repaginar uma tela/módulo
 
 Refazer a experiência de uma tela do zero se for preciso, **mantendo todas as funcionalidades que existem hoje**. Se o usuário ainda não disse qual é a tela, pergunte antes de qualquer coisa — é a única pergunta a fazer de cara.
 
